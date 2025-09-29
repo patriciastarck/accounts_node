@@ -1,0 +1,26 @@
+# Diretórios de dependências - ESSENCIAL
+node_modules/
+/jspm_packages/
+
+# Logs e Dados
+*.log
+npm-debug.log*
+.eslintcache
+
+# Arquivos de Build
+/dist
+/build
+/tmp
+
+# Variáveis de Ambiente e Chaves - CRÍTICO (NUNCA DEVE SER COMPARTILHADO)
+.env
+.env.development
+.env.production
+.env.local
+
+# Arquivos de Sistema
+.DS_Store # macOS
+Thumbs.db # Windows
+
+# Arquivos do VS Code (opcional, mas recomendado)
+.vscode/
