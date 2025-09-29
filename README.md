@@ -34,3 +34,12 @@ Inicie a aplicação usando o script `start` definido no `package.json`:
 
 ```bash
 npm start
+```
+## Dependências
+
+Este projeto utiliza as seguintes dependências:
+```
+* inquirer 8.2.7: Ferramenta para criar interfaces de linha de comando interativas;
+* chalk 4.1.2: Biblioteca para estilizar a saída do console (adicionar cores ao console).
+```
+
